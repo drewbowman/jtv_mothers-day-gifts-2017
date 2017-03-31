@@ -1,0 +1,380 @@
+#content_wrapper {overflow: hidden; max-width: 1170px;}
+
+.store-container {width:1170px; float:center; text-align:center; }
+
+.storepg-textright {text-align:right;}
+
+.row {
+	clear:both;
+	color:#333;
+	font-family: 'Lato', sans-serif;
+	font-size:14px;
+	font-weight:300 !important;
+	height:auto;
+	float:center;
+	margin:0 auto;
+	padding:0;
+	text-align:center;
+	width:100%;
+}
+
+.col1-1,.col1,.col2,.col3,.col4{
+	clear:none;
+	float:left;
+	height:auto;
+	margin:.1%;
+	min-height:20px;
+	position:relative;
+	width:auto;
+}
+
+
+.col1-1 {width:12.27%;}
+.col1{width:24.7%}
+.col2{width:49.7%}
+.col3{width:74.8%}
+.col4{width:99.9%}
+
+
+.text-left {
+	background-image:url(../mothers-day-2015/line.jpg?$staticlink$);
+	background-repeat:repeat-x;
+	background-position:bottom left;
+	clear:both;
+	float:left;
+	color:#333;
+	font-family: 'Lato', sans-serif;
+	font-size:13px;
+	font-weight:300 !important;
+	height:auto;
+	margin:0 auto;
+	padding:0 0 14px 0;
+	text-align:left;
+	width:auto;
+}
+
+.text-right {
+	background-image:url(../mothers-day-2015/line.jpg?$staticlink$);
+	background-repeat:repeat-x;
+	background-position:bottom right;
+	clear:both;
+	float:left;
+	color:#333;
+	font-family: 'Lato', sans-serif;
+	font-size:13px;
+	font-weight:300 !important;
+	height:auto;
+	margin:0 auto;
+	padding:0 0 14px 0;
+	text-align:right;
+	width:auto;
+}
+
+.text-up {
+	background-image:url(../mothers-day-2015/line.jpg?$staticlink$);
+	background-repeat:repeat-y;
+	background-position:bottom left;
+	clear:both;
+	float:left;
+	color:#333;
+	font-family: 'Lato', sans-serif;
+	font-size:13px;
+	font-weight:300 !important;
+	height:auto;
+	margin:0 auto;
+	padding:0 0 0 14px;
+	text-align:left;
+	width:auto;
+}
+
+.text-down {
+	background-image:url(../mothers-day-2015/line.jpg?$staticlink$);
+	background-repeat:repeat-y;
+	background-position:top left;
+	clear:both;
+	float:left;
+	color:#333;
+	font-family: 'Lato', sans-serif;
+	font-size:13px;
+	font-weight:300 !important;
+	height:auto;
+	margin:0 auto;
+	padding:0 0 0 14px;
+	text-align:left;
+	width:auto;
+}
+
+.store-link {
+	color: #2EADA5 !important;
+	font-family: 'Dancing Script', cursive;
+	font-size:30px;
+	font-weight:100;
+	line-height:auto;
+	margin:0 auto;
+	padding: 0 0 12px 0;
+    text-decoration: none;
+    -webkit-transition: all 600ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition:         all 600ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.store-link:visited {
+	color: #2EADA5 !important;
+	text-decoration:none;
+    -webkit-transition: all 600ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition:         all 600ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.store-link:hover {
+    color: #A9DC8C !important;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.store-description {
+	color:#333;
+	font-family: 'Lato', sans-serif;
+	font-size:13px;
+	font-weight:300 !important;
+	line-height:auto;
+	margin:0 auto;
+	padding:0;
+}
+
+.up-arrow {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+}
+
+.left-arrow {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:17px;
+	padding:0;
+}
+
+.right-arrow {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	padding:0;
+}
+
+
+.store-spacer {
+	clear:both;
+	height:auto;
+	min-height:25px;
+	width:100%;
+}
+
+.rings {
+	background-image:url(rings.jpg?$staticlink$);
+	background-repeat: no-repeat;
+	background-position: top right;
+    float: left;
+    height: 500px;
+    margin: 0 0 0 0;
+    padding: 0;
+    position: relative;
+    width: 53%;
+    z-index: 2;
+}
+
+.ring-text {
+    float: left;
+    height: auto;
+    margin: 130px 0 0 120px;
+    padding: 0px 0 12px 12px;
+    text-align: left;
+    width: 180px;
+}
+
+.necklaces {
+	background-image: url(necklace.jpg?$staticlink$);
+    background-repeat: no-repeat;
+    background-position: top right;
+    float: right;
+    height: 505px;
+    margin: -270px 0 0 0;
+    padding: 0;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+    
+.necklace-text {
+    float: left;
+    height: auto;
+    margin: 290px 0 0 240px;
+    padding: 0px 32px 12px 0;
+    text-align: left;
+    width: 230px;
+}
+
+.earrings {
+	background-image:url(earrings.png?$staticlink$);
+	background-repeat: no-repeat;
+    background-position: top left;
+    float: left;
+    height: 385px;
+    margin: 30px 0 0 0;
+    padding: 0;
+    position: relative;
+    width: 45%;
+    z-index: 3;
+}
+
+    
+.earring-text {
+	float: left;
+    height: auto;
+    margin: 100px 0 0 280px;
+    padding: 0 0 0 12px;
+    text-align: left;
+    width: 160px;
+}
+    
+.jewelry-sets {
+    background-image: url(jewelry-sets.png?$staticlink$);
+    background-repeat: no-repeat;
+    background-position: top left;
+    float: left;
+    height: 461px;
+    margin: -120px 0 0 30px;
+    padding: 0;
+    width: 50%;
+    position: relative;
+    z-index: 3;
+}
+
+.jewelry-sets-text {
+	float: left;
+    height: auto;
+    margin: 280px 0 0 70px;
+    padding: 0 0 0 12px;
+    text-align: left;
+    width: 180px;
+    position: relative;
+    z-index: 101;
+}
+    
+.classic-jewelry-gifts {
+	background-image: url(classic-jewelry-gifts.jpg?$staticlink$);
+    background-repeat: no-repeat;
+    background-position: top center;
+    float: left;
+    height: 500px;
+    margin: -45px 40px 0 0;
+    padding: 0;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+
+.classic-jewelry-gifts-text {
+    float: left;
+    height: auto;
+    margin: 76px 0 0 634px;
+    padding: 0 0 32px 12px;
+    text-align: left;
+    width: 280px;
+}
+
+.storage {
+	background-image:url(storage.png?$staticlink$);
+	background-repeat: no-repeat;
+    background-position: top right;
+    float: right;
+    height: 738px;
+    margin: -360px auto 0 auto;
+    padding: 0px;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+
+.storage-text {
+    float: left;
+    height: auto;
+    margin: 420px 80px 0 270px;
+    padding: 0px 20px 12px 0;
+    text-align: left;
+    width: 260px;
+}
+
+.arrow-image {
+padding:0 4px;
+}
+
+.arrow-image-left {
+padding:0 4px 0 0;
+}
+
+.mothersday-overview {
+	float:left;
+	height: auto;
+	margin: 0 auto;
+	padding: 65px 0 0 70px;
+	width: 400px;
+}
+
+.mothersday-overview-text {
+	color: #666;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: 300 !important;
+	line-height: 1.3;
+	margin: 0 0 14px 0;
+	padding: 0 30px;
+	text-align: center;
+}
+
+.mothersday-gift-guide-h1 {
+	color:#2EADA5;
+	font-family: 'Dancing Script', script;
+	font-size:36px;
+	font-weight: 400 !important;
+	line-height: 1.3;
+	margin: 10px 0 6px 0;
+	padding: 0;
+	text-align:center;
+}
+
+.slider {
+	background-image: url(../holiday-2014/slider-bg.jpg?$staticlink$);
+	background-position:top center;
+	background-repeat: no-repeat;
+	float: left;
+	height: 480px;
+	margin: 0 auto;
+	padding: 0;
+	width: 686px;
+}
+
+.flexslider {
+	margin: 30px 0px 0 44px !important;
+	margin: 30px 0px 0 44px !important;
+	border: 0px none !important;
+	box-shadow: none !important;
+	width: 602px !important;
+	height: 411px !important;
+}
+
+.flex-control-nav {
+	bottom: 12px !important;
+}
+
+.flex-direction-nav a:before  {
+    background-image:url(../../valentines_gifts_2014/img/arrow_l.png?$staticlink$);
+    font-family: "arial";
+    font-size: 40px;
+    display: inline-block;
+    content: ' ';
+    min-width:45px;
+    min-height:45px;
+}
+
+.flex-direction-nav a.flex-next:before  {
+    background-image:url(../../valentines_gifts_2014/img/arrow_r.png?$staticlink$);
+    content: ' ';
+    min-width:45px;
+    min-height:45px;
+}
